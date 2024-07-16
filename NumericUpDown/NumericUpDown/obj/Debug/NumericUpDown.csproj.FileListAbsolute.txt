@@ -1,0 +1,10 @@
+C:\Users\munzer\Documents\DeskTopApp\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.exe.config
+C:\Users\munzer\Documents\DeskTopApp\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.exe
+C:\Users\munzer\Documents\DeskTopApp\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.pdb
+C:\Users\munzer\Documents\DeskTopApp\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\DeskTopApp\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.Form1.resources
+C:\Users\munzer\Documents\DeskTopApp\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.Properties.Resources.resources
+C:\Users\munzer\Documents\DeskTopApp\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.csproj.GenerateResource.cache
+C:\Users\munzer\Documents\DeskTopApp\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\DeskTopApp\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.exe
+C:\Users\munzer\Documents\DeskTopApp\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.pdb

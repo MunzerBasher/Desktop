@@ -1,0 +1,10 @@
+C:\Users\munzer\Documents\DeskTopApp\NotifyIcon\NotifyIcon\bin\Debug\NotifyIcon.exe.config
+C:\Users\munzer\Documents\DeskTopApp\NotifyIcon\NotifyIcon\bin\Debug\NotifyIcon.exe
+C:\Users\munzer\Documents\DeskTopApp\NotifyIcon\NotifyIcon\bin\Debug\NotifyIcon.pdb
+C:\Users\munzer\Documents\DeskTopApp\NotifyIcon\NotifyIcon\obj\Debug\NotifyIcon.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\DeskTopApp\NotifyIcon\NotifyIcon\obj\Debug\NotifyIcon.Form1.resources
+C:\Users\munzer\Documents\DeskTopApp\NotifyIcon\NotifyIcon\obj\Debug\NotifyIcon.Properties.Resources.resources
+C:\Users\munzer\Documents\DeskTopApp\NotifyIcon\NotifyIcon\obj\Debug\NotifyIcon.csproj.GenerateResource.cache
+C:\Users\munzer\Documents\DeskTopApp\NotifyIcon\NotifyIcon\obj\Debug\NotifyIcon.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\DeskTopApp\NotifyIcon\NotifyIcon\obj\Debug\NotifyIcon.exe
+C:\Users\munzer\Documents\DeskTopApp\NotifyIcon\NotifyIcon\obj\Debug\NotifyIcon.pdb

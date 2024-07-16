@@ -1,0 +1,10 @@
+C:\Users\munzer\Documents\DeskTopApp\PIZZA\bin\Debug\PIZZA.exe.config
+C:\Users\munzer\Documents\DeskTopApp\PIZZA\bin\Debug\PIZZA.exe
+C:\Users\munzer\Documents\DeskTopApp\PIZZA\bin\Debug\PIZZA.pdb
+C:\Users\munzer\Documents\DeskTopApp\PIZZA\obj\Debug\PIZZA.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\DeskTopApp\PIZZA\obj\Debug\PIZZA.Form1.resources
+C:\Users\munzer\Documents\DeskTopApp\PIZZA\obj\Debug\PIZZA.Properties.Resources.resources
+C:\Users\munzer\Documents\DeskTopApp\PIZZA\obj\Debug\PIZZA.csproj.GenerateResource.cache
+C:\Users\munzer\Documents\DeskTopApp\PIZZA\obj\Debug\PIZZA.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\DeskTopApp\PIZZA\obj\Debug\PIZZA.exe
+C:\Users\munzer\Documents\DeskTopApp\PIZZA\obj\Debug\PIZZA.pdb

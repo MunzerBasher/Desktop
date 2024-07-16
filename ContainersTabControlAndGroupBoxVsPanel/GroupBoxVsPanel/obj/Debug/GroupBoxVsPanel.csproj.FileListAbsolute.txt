@@ -1,0 +1,10 @@
+C:\Users\munzer\Documents\DeskTopApp\ContainersTabControlAndGroupBoxVsPanel\GroupBoxVsPanel\bin\Debug\GroupBoxVsPanel.exe.config
+C:\Users\munzer\Documents\DeskTopApp\ContainersTabControlAndGroupBoxVsPanel\GroupBoxVsPanel\bin\Debug\GroupBoxVsPanel.exe
+C:\Users\munzer\Documents\DeskTopApp\ContainersTabControlAndGroupBoxVsPanel\GroupBoxVsPanel\bin\Debug\GroupBoxVsPanel.pdb
+C:\Users\munzer\Documents\DeskTopApp\ContainersTabControlAndGroupBoxVsPanel\GroupBoxVsPanel\obj\Debug\GroupBoxVsPanel.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\DeskTopApp\ContainersTabControlAndGroupBoxVsPanel\GroupBoxVsPanel\obj\Debug\GroupBoxVsPanel.Form1.resources
+C:\Users\munzer\Documents\DeskTopApp\ContainersTabControlAndGroupBoxVsPanel\GroupBoxVsPanel\obj\Debug\GroupBoxVsPanel.Properties.Resources.resources
+C:\Users\munzer\Documents\DeskTopApp\ContainersTabControlAndGroupBoxVsPanel\GroupBoxVsPanel\obj\Debug\GroupBoxVsPanel.csproj.GenerateResource.cache
+C:\Users\munzer\Documents\DeskTopApp\ContainersTabControlAndGroupBoxVsPanel\GroupBoxVsPanel\obj\Debug\GroupBoxVsPanel.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\DeskTopApp\ContainersTabControlAndGroupBoxVsPanel\GroupBoxVsPanel\obj\Debug\GroupBoxVsPanel.exe
+C:\Users\munzer\Documents\DeskTopApp\ContainersTabControlAndGroupBoxVsPanel\GroupBoxVsPanel\obj\Debug\GroupBoxVsPanel.pdb

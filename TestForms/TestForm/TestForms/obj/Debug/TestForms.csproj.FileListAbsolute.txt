@@ -1,0 +1,12 @@
+C:\Users\munzer\Documents\DeskTopApp\TestForms\TestForm\TestForms\bin\Debug\TestForms.exe.config
+C:\Users\munzer\Documents\DeskTopApp\TestForms\TestForm\TestForms\bin\Debug\TestForms.exe
+C:\Users\munzer\Documents\DeskTopApp\TestForms\TestForm\TestForms\bin\Debug\TestForms.pdb
+C:\Users\munzer\Documents\DeskTopApp\TestForms\TestForm\TestForms\obj\Debug\TestForms.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\DeskTopApp\TestForms\TestForm\TestForms\obj\Debug\TestForms.Form2.resources
+C:\Users\munzer\Documents\DeskTopApp\TestForms\TestForm\TestForms\obj\Debug\TestForms.Form3.resources
+C:\Users\munzer\Documents\DeskTopApp\TestForms\TestForm\TestForms\obj\Debug\TestForms.Properties.Resources.resources
+C:\Users\munzer\Documents\DeskTopApp\TestForms\TestForm\TestForms\obj\Debug\TestForms.csproj.GenerateResource.cache
+C:\Users\munzer\Documents\DeskTopApp\TestForms\TestForm\TestForms\obj\Debug\TestForms.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\DeskTopApp\TestForms\TestForm\TestForms\obj\Debug\TestForms.exe
+C:\Users\munzer\Documents\DeskTopApp\TestForms\TestForm\TestForms\obj\Debug\TestForms.pdb
+C:\Users\munzer\Documents\DeskTopApp\TestForms\TestForm\TestForms\obj\Debug\TestForms.MainPag.resources

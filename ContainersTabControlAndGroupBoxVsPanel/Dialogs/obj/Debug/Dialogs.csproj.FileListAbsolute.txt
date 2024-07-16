@@ -1,0 +1,10 @@
+C:\Users\munzer\Documents\DeskTopApp\ContainersTabControlAndGroupBoxVsPanel\Dialogs\bin\Debug\Dialogs.exe.config
+C:\Users\munzer\Documents\DeskTopApp\ContainersTabControlAndGroupBoxVsPanel\Dialogs\bin\Debug\Dialogs.exe
+C:\Users\munzer\Documents\DeskTopApp\ContainersTabControlAndGroupBoxVsPanel\Dialogs\bin\Debug\Dialogs.pdb
+C:\Users\munzer\Documents\DeskTopApp\ContainersTabControlAndGroupBoxVsPanel\Dialogs\obj\Debug\Dialogs.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\DeskTopApp\ContainersTabControlAndGroupBoxVsPanel\Dialogs\obj\Debug\Dialogs.Form1.resources
+C:\Users\munzer\Documents\DeskTopApp\ContainersTabControlAndGroupBoxVsPanel\Dialogs\obj\Debug\Dialogs.Properties.Resources.resources
+C:\Users\munzer\Documents\DeskTopApp\ContainersTabControlAndGroupBoxVsPanel\Dialogs\obj\Debug\Dialogs.csproj.GenerateResource.cache
+C:\Users\munzer\Documents\DeskTopApp\ContainersTabControlAndGroupBoxVsPanel\Dialogs\obj\Debug\Dialogs.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\DeskTopApp\ContainersTabControlAndGroupBoxVsPanel\Dialogs\obj\Debug\Dialogs.exe
+C:\Users\munzer\Documents\DeskTopApp\ContainersTabControlAndGroupBoxVsPanel\Dialogs\obj\Debug\Dialogs.pdb

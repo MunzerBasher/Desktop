@@ -1,0 +1,10 @@
+C:\Users\munzer\Documents\DeskTopApp\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\munzer\Documents\DeskTopApp\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\munzer\Documents\DeskTopApp\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\munzer\Documents\DeskTopApp\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\DeskTopApp\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\munzer\Documents\DeskTopApp\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\munzer\Documents\DeskTopApp\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\DeskTopApp\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\munzer\Documents\DeskTopApp\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\munzer\Documents\DeskTopApp\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources

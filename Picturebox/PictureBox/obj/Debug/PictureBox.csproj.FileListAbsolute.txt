@@ -1,0 +1,11 @@
+C:\Users\munzer\Documents\DeskTopApp\Picturebox\PictureBox\bin\Debug\PictureBox.exe.config
+C:\Users\munzer\Documents\DeskTopApp\Picturebox\PictureBox\bin\Debug\PictureBox.exe
+C:\Users\munzer\Documents\DeskTopApp\Picturebox\PictureBox\bin\Debug\PictureBox.pdb
+C:\Users\munzer\Documents\DeskTopApp\Picturebox\PictureBox\obj\Debug\PictureBox.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\DeskTopApp\Picturebox\PictureBox\obj\Debug\PictureBox.Form1.resources
+C:\Users\munzer\Documents\DeskTopApp\Picturebox\PictureBox\obj\Debug\PictureBox.Properties.Resources.resources
+C:\Users\munzer\Documents\DeskTopApp\Picturebox\PictureBox\obj\Debug\PictureBox.csproj.GenerateResource.cache
+C:\Users\munzer\Documents\DeskTopApp\Picturebox\PictureBox\obj\Debug\PictureBox.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\DeskTopApp\Picturebox\PictureBox\obj\Debug\PictureBox.exe
+C:\Users\munzer\Documents\DeskTopApp\Picturebox\PictureBox\obj\Debug\PictureBox.pdb
+C:\Users\munzer\Documents\DeskTopApp\Picturebox\PictureBox\obj\Debug\PictureBox.Form2.resources

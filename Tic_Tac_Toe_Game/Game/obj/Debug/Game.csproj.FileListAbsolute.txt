@@ -1,0 +1,10 @@
+C:\Users\munzer\Documents\DeskTopApp\Tic_Tac_Toe_Game\Game\bin\Debug\Game.exe.config
+C:\Users\munzer\Documents\DeskTopApp\Tic_Tac_Toe_Game\Game\bin\Debug\Game.exe
+C:\Users\munzer\Documents\DeskTopApp\Tic_Tac_Toe_Game\Game\bin\Debug\Game.pdb
+C:\Users\munzer\Documents\DeskTopApp\Tic_Tac_Toe_Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\DeskTopApp\Tic_Tac_Toe_Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\munzer\Documents\DeskTopApp\Tic_Tac_Toe_Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\munzer\Documents\DeskTopApp\Tic_Tac_Toe_Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\DeskTopApp\Tic_Tac_Toe_Game\Game\obj\Debug\Game.exe
+C:\Users\munzer\Documents\DeskTopApp\Tic_Tac_Toe_Game\Game\obj\Debug\Game.pdb
+C:\Users\munzer\Documents\DeskTopApp\Tic_Tac_Toe_Game\Game\obj\Debug\Game.Game.resources

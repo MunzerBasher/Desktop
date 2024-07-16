@@ -1,0 +1,12 @@
+C:\Users\munzer\Documents\DeskTopApp\MDIContainer\MID\bin\Debug\MID.exe.config
+C:\Users\munzer\Documents\DeskTopApp\MDIContainer\MID\bin\Debug\MID.exe
+C:\Users\munzer\Documents\DeskTopApp\MDIContainer\MID\bin\Debug\MID.pdb
+C:\Users\munzer\Documents\DeskTopApp\MDIContainer\MID\obj\Debug\MID.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\DeskTopApp\MDIContainer\MID\obj\Debug\MID.Form1.resources
+C:\Users\munzer\Documents\DeskTopApp\MDIContainer\MID\obj\Debug\MID.Properties.Resources.resources
+C:\Users\munzer\Documents\DeskTopApp\MDIContainer\MID\obj\Debug\MID.csproj.GenerateResource.cache
+C:\Users\munzer\Documents\DeskTopApp\MDIContainer\MID\obj\Debug\MID.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\DeskTopApp\MDIContainer\MID\obj\Debug\MID.exe
+C:\Users\munzer\Documents\DeskTopApp\MDIContainer\MID\obj\Debug\MID.pdb
+C:\Users\munzer\Documents\DeskTopApp\MDIContainer\MID\obj\Debug\MID.Login.resources
+C:\Users\munzer\Documents\DeskTopApp\MDIContainer\MID\obj\Debug\MID.Form3.resources
